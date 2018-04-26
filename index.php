@@ -8,7 +8,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head> 
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -28,8 +28,8 @@
   			echo date("Y m d");
   		?> 
   		<p>
-  			<a href="PHP-sys/login.php">Login</a>
-  			<a href="PHP-sys/register.php">Register</a>
+  			<a href="/login.php">Login</a>
+  			<a href="/register.php">Register</a>
   		</p>
   	</div>
 
